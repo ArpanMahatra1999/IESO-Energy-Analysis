@@ -1,4 +1,4 @@
-# Google-Colab-IESO-Energy-Analysis
+# IESO-Energy-Analysis
 Google Colaboratory Project for Time Series Forecasting for Demand, Supply and Price of Energy in Ontario.
 
 Tools used:
